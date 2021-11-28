@@ -16,3 +16,9 @@ https://elpatiovintage.com/
 https://www.ozzystreetwear.com.ar/
 https://www.goodlook.com.ar/
 https://tienda4elements.com/
+
+https://wireframe.cc/qWfQGQ (Boceto Home)
+https://wireframe.cc/wxOmon (Boceto detalle de producto)
+https://wireframe.cc/Tztf7b (Boceto Carrito)
+https://wireframe.cc/kUxlSg (Boceto Log In)
+https://wireframe.cc/g28MlK (Boceto Registro)
