@@ -11,11 +11,12 @@ Soy Axel tengo 20 años, soy encargado de la logística de la empresa, como tal 
 
 Elegimos estos sitios web,ya que, son emprendedores que fueros creciendo y hoy en dia son excitosos gracias a su pagina web. cada una de las paginas tine algo que llamo nuestra atencion, desde el diseño minimalista en el inicio hasta el formato de presentacion de los productos. Pasando tambien por el buen servicio que les brindan a los clientes, desde el momento de la compra hasta la post venta 
 
-https://vvsmerch.com/
-https://elpatiovintage.com/
-https://www.ozzystreetwear.com.ar/
-https://www.goodlook.com.ar/
-https://tienda4elements.com/
+Referencias: 
+* https://vvsmerch.com/
+* https://elpatiovintage.com/
+* https://www.ozzystreetwear.com.ar/
+* https://www.goodlook.com.ar/
+* https://tienda4elements.com/
 
 https://wireframe.cc/qWfQGQ (Boceto Home)
 https://wireframe.cc/wxOmon (Boceto detalle de producto)
