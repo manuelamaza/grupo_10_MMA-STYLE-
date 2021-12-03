@@ -1,3 +1,5 @@
+<h1>MMA-Style</h1>
+
 Somos un emprendimiento de ropa urbana estilo oversize que ofrece comodidad y estilo en sus prendas. Por el momento ofrecemos remerones y hoodies pero la idea es apliarnos a conjuntos completos con accesorios. Apuntamos a un publico joven con ganas de salir de lo cotidiano o ampliar su guardaropa. Para ello ofrecemos productos de calidad y al menor costo posible con descuentos con pagos en efectivo.
 
 
@@ -11,15 +13,19 @@ Soy Axel tengo 20 años, soy encargado de la logística de la empresa, como tal 
 
 Elegimos estos sitios web,ya que, son emprendedores que fueros creciendo y hoy en dia son excitosos gracias a su pagina web. cada una de las paginas tine algo que llamo nuestra atencion, desde el diseño minimalista en el inicio hasta el formato de presentacion de los productos. Pasando tambien por el buen servicio que les brindan a los clientes, desde el momento de la compra hasta la post venta 
 
-Referencias: 
-* https://vvsmerch.com/
-* https://elpatiovintage.com/
-* https://www.ozzystreetwear.com.ar/
-* https://www.goodlook.com.ar/
-* https://tienda4elements.com/
+Referencias: <ul>
+    <li> https://vvsmerch.com/ </li>
+    <li> https://elpatiovintage.com/ </li>
+    <li> https://www.ozzystreetwear.com.ar/ </li>
+    <li> https://www.goodlook.com.ar/ </li>
+    <li> https://tienda4elements.com/ </li> </ul>
 
-https://wireframe.cc/qWfQGQ (Boceto Home)
-https://wireframe.cc/wxOmon (Boceto detalle de producto)
-https://wireframe.cc/Tztf7b (Boceto Carrito)
-https://wireframe.cc/kUxlSg (Boceto Log In)
-https://wireframe.cc/g28MlK (Boceto Registro)
+* https://wireframe.cc/qWfQGQ (Boceto Home)
+* https://wireframe.cc/wxOmon (Boceto detalle de producto)
+* https://wireframe.cc/Tztf7b (Boceto Carrito)
+* https://wireframe.cc/kUxlSg (Boceto Log In)
+* https://wireframe.cc/g28MlK (Boceto Registro)
+
+
+La retrospectiva:
+Creemos que deberiamos tener mas contacto entre los integrantes del grupo y no se hagan las cosas tan por separado. La comunicacion en estos trabajos es realmente importante para el progreso. Por otro lado creo tambien que tendriamos que meterle mas a los sprints, porque los estamos dejando en segundo plano. Si creo que estamos aprovechando las pocas reuniones que tenemos, porque las hacemos valer. Hacemos bastante en cada una y con un muy buen ambiente de trabajo, que es muy valorable el clima de trabajo. 
