@@ -26,4 +26,6 @@ Elegimos estos sitios web,ya que, son emprendedores que fueros creciendo y hoy e
 * https://wireframe.cc/kUxlSg (Boceto Log In)
 * https://wireframe.cc/g28MlK (Boceto Registro)
 
+<h4> Tablero de trello</h4>
+<div> https://trello.com/b/d4BVy0ST/mma-style#</div>
 
