@@ -1,0 +1,51 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+
+*{
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.imagen{
+    display: block;
+    width:200px;
+    margin:auto;
+}
+header{
+    background-color: black;
+    width:100%;
+}
+.sesion{
+    display: block;
+    margin: auto;
+    width:600px;
+    height:400px;
+    padding: 20px 30px;
+    color:black;
+}
+.titulo{
+    text-align: center;
+    font-size: 30px;
+}
+
+.carga{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 12px;
+    border-radius: 20px;
+}
+
+.boton{
+    display: block;
+    background-color: black;
+    color:white;
+    width:50%;
+    height:50px;
+    margin: auto;
+}
+.texto{
+    margin-left:40%;
+}
+i{
+    width: 15%;
+    height: 50%;
+    margin-left: 20%;
+}
