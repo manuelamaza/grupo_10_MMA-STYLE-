@@ -1,0 +1,23 @@
+{
+  "name": "grupo10",
+  "version": "1.0.0",
+  "description": "<h1>MMA-Style</h1>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelamaza/grupo_10_MMA-STYLE-.git"
+  },
+  "keywords": [],
+  "author": "Mariano,Manuela,Axel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelamaza/grupo_10_MMA-STYLE-/issues"
+  },
+  "homepage": "https://github.com/manuelamaza/grupo_10_MMA-STYLE-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
