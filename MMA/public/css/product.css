@@ -56,9 +56,6 @@ ul {
     flex-direction: row;
 }
 
-.iso {
-    width: 40px;
-}
 
 .logo {
     width: 10%;
@@ -68,41 +65,28 @@ ul {
     display: flex;
     flex-wrap: wrap;
     margin: 0px 15px;
+    color: white;
 }
 
 .shopping-cart {
     margin-right: 10px;
+    color: white;
 }
 
 .link-login {
     display: none;
 }
 
-.whatsapp {
-    position: fixed;
-    width: 60px;
-    height: 60px;
-    bottom: 40px;
-    right: 40px;
-    background-color: #25d366;
-    color: #FFF;
-    border-radius: 50px;
-    text-align: center;
-    font-size: 48px;
-
-}
 .product-name-price{
     color: black;
 }
 /* footer */
 
 .h3-footer-desktop {
-    display: none
+    /* display: none; */
+    color: white;
 }
 
-.logotipo {
-    display: none
-}
 
 .box-footer {
     padding: 20px;
@@ -114,25 +98,17 @@ ul {
     color: white;
 }
 
-.email,
-.buttom-footer {
-    border-radius: 5px;
-}
 
-.email-and-buttom {
-    text-align: center;
-}
+
 
 .footer-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    color: white;
 }
 
-.logo-footer {
-    width: 80px;
-}
 
 .h3-footer {
     text-align: center;
@@ -244,6 +220,7 @@ ul {
     .features-search i {
         margin-left: 5px;
     }
+
 
     /* footer */
 

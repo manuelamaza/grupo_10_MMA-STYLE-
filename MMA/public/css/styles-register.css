@@ -2,6 +2,7 @@
 
 * {
     box-sizing: border-box;
+    background-color: black;
 }
 
 body {
@@ -11,7 +12,9 @@ body {
 /* header */
 
 .main-header {
-    background-color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
 }
 
 .title-header {
@@ -37,10 +40,6 @@ body {
     margin: 0px 10px;
 }
 
-.search-bar{
-    display: none;
-}
-
 .nav-bar {
     display: none;
 }
@@ -53,24 +52,23 @@ ul {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-}
-
-.iso {
-    width: 40px;
+    color:  white ;
 }
 
 .logo {
-    width: 10%;
+    width: 50%;
 }
 
 .carrito-login {
     display: flex;
     flex-wrap: wrap;
     margin: 0px 15px;
+    color: white;
 }
 
 .shopping-cart {
     margin-right: 10px;
+    color: white;
 }
 
 .link-login {
@@ -117,7 +115,9 @@ ul {
 
 .control {
     width: 100%;
-    padding: 8px
+    padding: 8px;
+    color: white;
+    border-radius: 10px;
 }
 
 .main-form h1 {
@@ -137,7 +137,7 @@ ul {
 
 
 .boton-formulario {
-    background-color: #4678f4;
+    background-color: rgb(166, 18, 236);
     border: none;
     font-size: 25px;
     color: white;
@@ -151,31 +151,15 @@ ul {
     padding: 0px 15px;
 }
 
-.whatsapp {
-    position:fixed;
-    width:60px;
-    height:60px;
-    bottom:40px;
-    right:40px;
-    background-color:#25d366;
-    color:#FFF;
-    border-radius:50px;
-    text-align:center;
-    font-size: 48px;
-    
-  }
+
 
 /* footer */
 
  .h3-footer-desktop { 
     display: none}
 
-.logotipo {
-    display: none
-}
 .box-footer {
     padding: 20px;
-    background-color: rgb(46, 83, 131);
 }
 
 .title-suscription{
@@ -184,23 +168,11 @@ ul {
     color: white;
 }
 
-.email, .buttom-footer {
-    border-radius: 5px;
-}
-
-.email-and-buttom {
-    text-align: center;
-}
-
 .footer-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-}
-
-.logo-footer {
-    width: 80px;
 }
 
 .h3-footer {
@@ -219,6 +191,8 @@ ul {
     justify-content: space-evenly;
     align-items: center;
     font-size: 25px;
+    color: white;
+    padding-left: 650px;
 }
 
 /*Mobile*/
@@ -248,7 +222,7 @@ ul {
     }
 
     .logo {
-        width: 150px;
+        width: 200px;
     }
 
     .burger-menu {
@@ -360,12 +334,12 @@ ul {
     }
 
     .h3-footer-desktop {
-        display: block;
+        display: flex;
         flex-wrap: wrap;
-        flex-direction: column;
         order: -1;
         text-align: center;
-        font-size: 13px;        
+        font-size: 13px;
+        justify-content: space-around;        
     }
 
     .h3-footer-desktop a {
