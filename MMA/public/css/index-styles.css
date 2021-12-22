@@ -69,6 +69,9 @@ body {
 .logo {
     width: 100%;
 }
+.logo-conteiner{
+    order: -1;
+}
 .banner{
     width: 60%;
     height: 150px;
@@ -168,9 +171,6 @@ main {
     
     color: rgb(0, 0, 0);
 }
- .logotipo {
-    display: none
- }
  .box-footer {
     padding: 20px;
     background-color: #181a1e;
