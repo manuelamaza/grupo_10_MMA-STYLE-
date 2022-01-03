@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/manuelamaza/grupo_10_MMA-STYLE-#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
   }
 }

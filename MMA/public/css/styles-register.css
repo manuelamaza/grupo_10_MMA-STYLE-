@@ -162,12 +162,6 @@ ul {
     padding: 20px;
 }
 
-.title-suscription{
-    display: none;
-    font-size: 16px;
-    color: white;
-}
-
 .footer-container {
     display: flex;
     flex-wrap: wrap;
@@ -321,11 +315,6 @@ ul {
 
     /* footer */
     
-
-    .title-suscription {
-        display:block;
-        align-self: flex-end
-    }
 
     .box-footer {
         display: flex;
