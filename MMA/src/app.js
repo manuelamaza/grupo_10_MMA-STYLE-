@@ -6,22 +6,22 @@ app.set('view engine','ejs')
 app.listen(process.env.PORT || 3000,()=>
     console.log("Levantando un servidor con Express en 3000")
     )
-const homeRoutes = require ('./routes/homeRoutes')
+const homeRoutes = require ('./src/routes/homeRoutes')
 
 app.use('/',homeRoutes)
 
-const loginRoutes = require ('./routes/logInRoutes')
+const loginRoutes = require ('./src/routes/logInRoutes')
 
 app.use('/login',loginRoutes)
 
-const signinRoutes = require ('./routes/signInRoutes')
+const signinRoutes = require ('./src/routes/signInRoutes')
 
 app.use('/signin',signinRoutes)
 
-const productRoutes = require ('./routes/productRoutes')
+const productRoutes = require ('./src/routes/productRoutes')
 
 app.use('/productDetail',productRoutes)
 
-//const shoppingCartRoutes = require ('./routes/shoppingCartRoutes')
+const adminProductRoutes = require ('./routes/adminProductRoutes')
 
-// app.use('/shoppingCart',shoppingCartRoutes)
+app.use('/adminProduct',adminProductRoutes)
