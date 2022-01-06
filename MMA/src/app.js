@@ -26,22 +26,3 @@ const adminProductRoutes = require ('./routes/adminProductRoutes')
 
 app.use('/adminProduct',adminProductRoutes)
 
-app.get('/footer', (req, res) =>{
-    res.rende('footer')
-});
-
-app.get('/home', (req,res) => {
-    res.render('home')
-});
-
-app.get('/head', (req,res) => {
-    res.render('head')
-});
-
-app.get('/header', (req, res) => {
-    res.render('header')
-});
-
-app.get('/products', (req,res) => {
-    res.render('products')
-});
